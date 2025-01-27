@@ -15,7 +15,8 @@ Efficient database integration for content storage and retrieval.
 
 3. Streaming Service:  
 Endpoints for streaming media content to clients.  
-Scalable architecture to handle concurrent users and ensure high performance.  
+Scalable architecture to handle concurrent users and ensure high performance.
+
 
 Tech Stack   
 1. Spring Boot: Backend framework for RESTful API development.  
