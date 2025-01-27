@@ -17,8 +17,8 @@ Efficient database integration for content storage and retrieval.
 Endpoints for streaming media content to clients.  
 Scalable architecture to handle concurrent users and ensure high performance.  
 
-Tech Stack  
-*Spring Boot: Backend framework for RESTful API development.  
-*MySQL: Relational database for user and content data.   
-*Hibernate: ORM for seamless interaction with the database.  
-*Maven: Dependency and build management.  
+Tech Stack   
+1. Spring Boot: Backend framework for RESTful API development.  
+2. MySQL: Relational database for user and content data.   
+3. Hibernate: ORM for seamless interaction with the database.  
+4. Maven: Dependency and build management.  
